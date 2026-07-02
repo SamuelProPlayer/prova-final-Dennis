@@ -28,7 +28,6 @@ body {
     padding: 10px 15px;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
     font-size: 14px;
 }
 
@@ -133,7 +132,6 @@ body {
     border-radius: 20px;
     margin: 5px 5px 5px 0;
     font-size: 13px;
-    cursor: pointer;
     display: inline-block;
 }
 
