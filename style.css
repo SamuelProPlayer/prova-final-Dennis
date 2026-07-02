@@ -62,9 +62,9 @@ color: black;
 }
 
 .quadrado {
+    display: block;
     background-color: gray;
     color: goldenrod;
-    display: block;
     box-sizing: border-box;
     box-shadow: 20px 20px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
 
