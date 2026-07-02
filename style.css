@@ -8,8 +8,8 @@ body {
 .title {
     background-color: gray;
     padding: 20px 20px;
-    height: 40vh;
-    width: 80vh;
+    height: 30vh;
+    width: auto;
 }
 
 .part1 {
