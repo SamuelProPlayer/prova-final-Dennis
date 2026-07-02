@@ -3,3 +3,31 @@ body {
     width: 500vw;
     background-color: white;
 }
+
+.title {
+    background-color: gray;
+    padding: 20px 20px;
+    height: 40vh;
+    width: 80vh;
+}
+
+.part1 {
+
+}
+
+.btn1 {
+    background-color: black;
+    color: white;
+    padding: 20px 20px;
+    border-radius: 12px;
+
+}
+
+.title-content {
+    font-size: medium;
+    color: black;
+}
+
+.h1 {
+    
+}
