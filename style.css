@@ -33,8 +33,17 @@ body {
 }
 
 .content {
-     background-color: white;
+    background-color: white;
     padding: 20px 20px;
-    height: 40vh;
+    height: 100vh;
     width: 80vh;
+}
+
+.text {
+    font-size: small;
+    color: gray;
+}
+.h3 {
+font-size: medium;
+color: black;
 }
