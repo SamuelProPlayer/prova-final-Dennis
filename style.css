@@ -83,5 +83,16 @@ color: black;
     width: 80vh;
 }
 
+.btn-redondo {
+    display: grid;
+    grid-template-columns: repeat(200px 1fr);
+    gap: 2.5rem;
+}
 
+.tag {
+    background-color: grey;
+    color: black;
+    box-sizing: border-box;
+    box-shadow: 20px 20px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
+}
 
