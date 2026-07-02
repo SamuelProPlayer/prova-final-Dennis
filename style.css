@@ -1,7 +1,7 @@
 
 body {
-    height: 300vw;
-    width: 500vw;
+    height: 100vw;
+    width: 100vw;
     background-color: white;
 }
 
@@ -21,7 +21,7 @@ body {
     color: white;
     padding: 20px 20px;
     border-radius: 12px;
-
+    
 }
 
 .title-content {
