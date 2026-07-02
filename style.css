@@ -135,8 +135,10 @@ body {
 }
 
 .footer {
-    background-color: #d3d3d3;
+    background-color: grey;
     color: black;
     padding: 30px 20px;
     min-height: auto;
+    justify-content: center;
+    text-align: center;
 }
